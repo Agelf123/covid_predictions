@@ -2,9 +2,9 @@ Predicting Covid Hotspots
 
 By: 
 
-Aryeh Gelfand(https://git.generalassemb.ly/aryehgelfand)
-Jordan Weiss(https://git.generalassemb.ly/weisja4/)
-Brandon Greenspan(https://git.generalassemb.ly/bgreenspan)
+Aryeh Gelfand
+Jordan Weiss
+Brandon Greenspan
 
 The Problem:
 

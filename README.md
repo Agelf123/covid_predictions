@@ -2,9 +2,9 @@ Predicting Covid Hotspots
 
 By: 
 
-Aryeh Gelfand
-Jordan Weiss
-Brandon Greenspan
+ - Aryeh Gelfand
+ - Jordan Weiss
+ - Brandon Greenspan
 
 The Problem:
 
